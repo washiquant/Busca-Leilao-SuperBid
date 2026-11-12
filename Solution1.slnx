@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BuscaItem.Api/BuscaItem.Api.csproj" />
+  <Project Path="BuscaItem.Application/BuscaItem.Application.csproj" />
+  <Project Path="BuscaItem.Domain/BuscaItem.Domain.csproj" />
+  <Project Path="BuscaItem.Infrastructure/BuscaItem.Infrastructure.csproj" />
+</Solution>
