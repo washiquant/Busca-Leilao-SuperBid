@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38262DAB-EE3D-45BF-8149-013E1654CC3C}|BuscaItem.Api\\BuscaItem.Api.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38262DAB-EE3D-45BF-8149-013E1654CC3C}|BuscaItem.Api\\BuscaItem.Api.csproj|solutionrelative:buscaitem.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DF8088-C3AF-21D3-CD2E-4E39C8F74B8A}|BuscaItem.Application\\BuscaItem.Application.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DF8088-C3AF-21D3-CD2E-4E39C8F74B8A}|BuscaItem.Application\\BuscaItem.Application.csproj|solutionrelative:buscaitem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26D36735-0088-4DC5-AE39-3CDC9FB063B8}|BuscaItem.Domain\\BuscaItem.Domain.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.domain\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26D36735-0088-4DC5-AE39-3CDC9FB063B8}|BuscaItem.Domain\\BuscaItem.Domain.csproj|solutionrelative:buscaitem.domain\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{570A2959-DEAD-6007-5DB5-0A96466ACF97}|BuscaItem.Domain\\BuscaItem.Domain.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.domain\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570A2959-DEAD-6007-5DB5-0A96466ACF97}|BuscaItem.Domain\\BuscaItem.Domain.csproj|solutionrelative:buscaitem.domain\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{012F864C-BC20-418C-9460-867EE312A316}|BuscaItem.Application\\BuscaItem.Application.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012F864C-BC20-418C-9460-867EE312A316}|BuscaItem.Application\\BuscaItem.Application.csproj|solutionrelative:buscaitem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B91646-79BF-A796-6CC8-77A483BD173A}|BuscaItem.Api\\BuscaItem.Api.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B91646-79BF-A796-6CC8-77A483BD173A}|BuscaItem.Api\\BuscaItem.Api.csproj|solutionrelative:buscaitem.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5203201A-B132-4CB4-B1CB-92B2BE45705B}|BuscaItem.Infrastructure\\BuscaItem.Infrastructure.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5203201A-B132-4CB4-B1CB-92B2BE45705B}|BuscaItem.Infrastructure\\BuscaItem.Infrastructure.csproj|solutionrelative:buscaitem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBED9956-2B55-8891-7D30-17560F0978C6}|BuscaItem.Infrastructure\\BuscaItem.Infrastructure.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBED9956-2B55-8891-7D30-17560F0978C6}|BuscaItem.Infrastructure\\BuscaItem.Infrastructure.csproj|solutionrelative:buscaitem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -36,27 +36,27 @@
               "RelativeDocumentMoniker": "BuscaItem.Domain\\Notebook.cs",
               "ToolTip": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Domain\\Notebook.cs",
               "RelativeToolTip": "BuscaItem.Domain\\Notebook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T19:12:29.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Class1.cs",
               "RelativeDocumentMoniker": "BuscaItem.Api\\Class1.cs",
               "ToolTip": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Class1.cs",
               "RelativeToolTip": "BuscaItem.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T18:33:43.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Application\\Class1.cs",
               "RelativeDocumentMoniker": "BuscaItem.Application\\Class1.cs",
@@ -77,8 +77,7 @@
               "RelativeToolTip": "BuscaItem.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-12T18:32:23.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T18:32:23.978Z"
             }
           ]
         }
