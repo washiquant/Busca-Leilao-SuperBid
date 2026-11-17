@@ -7,9 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
-    <Folder Include="Context\" />
+    <Compile Remove="Context\**" />
+    <Compile Remove="Controllers\**" />
+    <EmbeddedResource Remove="Context\**" />
+    <EmbeddedResource Remove="Controllers\**" />
+    <None Remove="Context\**" />
+    <None Remove="Controllers\**" />
   </ItemGroup>
 
 </Project>

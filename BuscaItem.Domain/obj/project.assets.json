@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\48877723866\\.nuget\\packages\\": {},
+    "C:\\Users\\Washi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48877723866\\Desktop\\backend-washingtonwillian\\Busca-Leilao-SuperBid\\BuscaItem.Domain\\BuscaItem.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Domain\\BuscaItem.Domain.csproj",
       "projectName": "BuscaItem.Domain",
-      "projectPath": "C:\\Users\\48877723866\\Desktop\\backend-washingtonwillian\\Busca-Leilao-SuperBid\\BuscaItem.Domain\\BuscaItem.Domain.csproj",
-      "packagesPath": "C:\\Users\\48877723866\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48877723866\\Desktop\\backend-washingtonwillian\\Busca-Leilao-SuperBid\\BuscaItem.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Domain\\BuscaItem.Domain.csproj",
+      "packagesPath": "C:\\Users\\Washi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\48877723866\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Washi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

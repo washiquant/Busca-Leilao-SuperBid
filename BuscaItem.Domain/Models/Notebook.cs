@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BuscaItem.Domain;
+namespace BuscaItem.Domain.Models;
 
 public class Notebook
 {

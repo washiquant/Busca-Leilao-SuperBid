@@ -1,10 +1,11 @@
-﻿using System;
+﻿using BuscaItem.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace BuscaItem.Domain.Interfaces
 {
-    internal interface INotebookRepository
+    public interface INotebookRepository
     {
         void AdicionarNotebook(Notebook notebook); // Adiciona um notebook ao repositório
 
