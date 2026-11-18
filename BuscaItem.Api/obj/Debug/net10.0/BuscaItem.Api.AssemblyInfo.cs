@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuscaItem.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eec46a9b2c029ae1975bf8948aba83e86dc50c83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c083237d3de6f62b12396ff0a16340f4f4b718c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuscaItem.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuscaItem.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
