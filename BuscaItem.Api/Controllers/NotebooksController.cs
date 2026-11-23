@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BuscaItem.Api.Controllers
 {
-    internal class NotebooksController : 
+    internal class NotebooksController 
     {
     }
 }

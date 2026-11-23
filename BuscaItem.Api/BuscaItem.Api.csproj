@@ -1,12 +1,14 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
-  <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>aactReference Include="..\BuscaItem.Infrastructure\BuscaItem.Infrastructure.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\BuscaItem.Application\BuscaItem.Application.csproj" />
+		<ProjectReference Include="..\BuscaItem.Infrastructure\BuscaItem.Infrastructure.csproj" />
+	</ItemGroup>
 
 </Project>
