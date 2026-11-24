@@ -15,6 +15,10 @@ public class Notebook
     public Notebook(string nomeNotebook, decimal lanceAtual, decimal valordeMercado)
     {
         NomeNotebook = nomeNotebook;
+        if (lanceAtual < 0)
+        {
+            throw new ArgumentOutOfRangeException(nameof(LanceAtual), "O lance não pode ser negativo.");
+        }
         LanceAtual  = lanceAtual;
         ValordeMercado = valordeMercado;
 
