@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuscaItem.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7688adcd6925c24da5c77b745acd1e1a873ece4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77457609385a775c489977e872f50c6ac9ba260")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuscaItem.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuscaItem.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
