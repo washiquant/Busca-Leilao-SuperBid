@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuscaItem.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7688adcd6925c24da5c77b745acd1e1a873ece4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eae661a9cd7cc7f2c23197f96f58e5d89f966405")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuscaItem.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuscaItem.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

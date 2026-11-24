@@ -3,4 +3,5 @@
   <Project Path="BuscaItem.Application/BuscaItem.Application.csproj" />
   <Project Path="BuscaItem.Domain/BuscaItem.Domain.csproj" />
   <Project Path="BuscaItem.Infrastructure/BuscaItem.Infrastructure.csproj" />
+  <Project Path="BuscaItem.Tests/BuscaItem.Tests.csproj" Id="5a6f12cd-395f-4af4-b65e-714fd733625b" />
 </Solution>

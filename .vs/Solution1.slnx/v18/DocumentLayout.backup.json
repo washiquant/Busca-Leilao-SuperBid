@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A6F12CD-395F-4AF4-B65E-714FD733625B}|BuscaItem.Tests\\BuscaItem.Tests.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6F12CD-395F-4AF4-B65E-714FD733625B}|BuscaItem.Tests\\BuscaItem.Tests.csproj|solutionrelative:buscaitem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24B91646-79BF-A796-6CC8-77A483BD173A}|BuscaItem.Api\\BuscaItem.Api.csproj|c:\\users\\washi\\desktop\\python\\buscaitem\\solution1\\buscaitem.api\\controllers\\notebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B91646-79BF-A796-6CC8-77A483BD173A}|BuscaItem.Api\\BuscaItem.Api.csproj|solutionrelative:buscaitem.api\\controllers\\notebookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BuscaItem.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BuscaItem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T01:11:27.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NotebookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Infrastructure\\Repositories\\NotebookRepository.cs",
               "RelativeDocumentMoniker": "BuscaItem.Infrastructure\\Repositories\\NotebookRepository.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "INotebookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Domain\\Interfaces\\INotebookRepository.cs",
               "RelativeDocumentMoniker": "BuscaItem.Domain\\Interfaces\\INotebookRepository.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BuscaItem.Api\\Controllers\\HomeController.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotebookService.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Application\\Services\\NotebookService.cs",
               "RelativeDocumentMoniker": "BuscaItem.Application\\Services\\NotebookService.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Program.cs",
               "RelativeDocumentMoniker": "BuscaItem.Api\\Program.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BuscaItem.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\BuscaItem.Api.csproj",
               "RelativeDocumentMoniker": "BuscaItem.Api\\BuscaItem.Api.csproj",
@@ -118,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotebooksController.cs",
               "DocumentMoniker": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Controllers\\NotebooksController.cs",
               "RelativeDocumentMoniker": "BuscaItem.Api\\Controllers\\NotebooksController.cs",
               "ToolTip": "C:\\Users\\Washi\\Desktop\\PYTHON\\BuscaItem\\Solution1\\BuscaItem.Api\\Controllers\\NotebooksController.cs",
               "RelativeToolTip": "BuscaItem.Api\\Controllers\\NotebooksController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-23T02:47:20.098Z",
               "EditorCaption": ""
