@@ -10,4 +10,8 @@
     <ProjectReference Include="..\BuscaItem.Domain\BuscaItem.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>
