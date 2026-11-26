@@ -4,12 +4,5 @@ using System.Text;
 
 namespace BuscaItem.Application.DTOs
 {
-    public record class NotebookEntradaDto
-    {
-        public string nomeNotebook;
-        public DateTime ultimoDiaLanceNotebook;
-        public decimal lanceAtual;
-
-       
-    }
+    public record NotebookEntradaDto(string NomeProcurado, decimal ValorMaximoLance, decimal LucroMinimoDesejado);
 }
